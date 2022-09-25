@@ -1,0 +1,47 @@
+{
+  "groups": [
+    {
+      "name": "swagger",
+      "type": "com.zmj.swagger.bean.SwaggerInfo",
+      "sourceType": "com.zmj.swagger.bean.SwaggerInfo"
+    }
+  ],
+  "properties": [
+    {
+      "name": "swagger.base-package",
+      "type": "java.lang.String",
+      "sourceType": "com.zmj.swagger.bean.SwaggerInfo"
+    },
+    {
+      "name": "swagger.contact-name",
+      "type": "java.lang.String",
+      "sourceType": "com.zmj.swagger.bean.SwaggerInfo"
+    },
+    {
+      "name": "swagger.description",
+      "type": "java.lang.String",
+      "sourceType": "com.zmj.swagger.bean.SwaggerInfo"
+    },
+    {
+      "name": "swagger.email",
+      "type": "java.lang.String",
+      "sourceType": "com.zmj.swagger.bean.SwaggerInfo"
+    },
+    {
+      "name": "swagger.title",
+      "type": "java.lang.String",
+      "sourceType": "com.zmj.swagger.bean.SwaggerInfo"
+    },
+    {
+      "name": "swagger.url",
+      "type": "java.lang.String",
+      "sourceType": "com.zmj.swagger.bean.SwaggerInfo"
+    },
+    {
+      "name": "swagger.version",
+      "type": "java.lang.String",
+      "sourceType": "com.zmj.swagger.bean.SwaggerInfo"
+    }
+  ],
+  "hints": []
+}
