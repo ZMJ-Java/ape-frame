@@ -26,6 +26,16 @@ spring:
 #sql 防火墙
         wall:
           enabled: true
+  redis:
+    host: 127.0.0.1
+    port: 6379
+    database: 0
+    lettuce:
+      pool:
+        max-active: 20
+        max-idle: 8
+        max-wait: -1
+        min-idle: 0
 #sql 美化是否开启
 sql:
   beauty:
@@ -38,3 +48,12 @@ mybatis-plus:
       logic-delete-field: delete_flag
       logic-delete-value: 1
       logic-not-delete-value: 0
+  mapper-locations: classpath:mapper/*.xml
+swagger:
+  base-package: com.zmj
+  title: ape-frame
+  contact-name: zmj
+  url: zmj.github.com
+  email: zmj.@qq.com
+  version: 1.0
+  description: 脚手架

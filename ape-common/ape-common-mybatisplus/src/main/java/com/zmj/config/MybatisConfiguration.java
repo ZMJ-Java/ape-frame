@@ -10,6 +10,10 @@ import org.springframework.context.annotation.Configuration;
  * @Package com.zmj.config
  * @date 2022/9/3 11:53
  */
+
+/**
+ * 在yml文件中配置是否开启sql beauty 插件
+ * */
 @Configuration
 public class MybatisConfiguration {
 

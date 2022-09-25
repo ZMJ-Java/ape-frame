@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ape-common/ape-common.iml" filepath="$PROJECT_DIR$/ape-common/ape-common.iml" />
       <module fileurl="file://$PROJECT_DIR$/ape-common/ape-common-mybatisplus/ape-common-mybatisplus.iml" filepath="$PROJECT_DIR$/ape-common/ape-common-mybatisplus/ape-common-mybatisplus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ape-common/ape-common-redis/ape-common-redis.iml" filepath="$PROJECT_DIR$/ape-common/ape-common-redis/ape-common-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ape-common/ape-common-swagger/ape-common-swagger.iml" filepath="$PROJECT_DIR$/ape-common/ape-common-swagger/ape-common-swagger.iml" />
       <module fileurl="file://$PROJECT_DIR$/ape-common/ape-common-web/ape-common-web.iml" filepath="$PROJECT_DIR$/ape-common/ape-common-web/ape-common-web.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ape-frame.iml" filepath="$PROJECT_DIR$/.idea/ape-frame.iml" />
       <module fileurl="file://$PROJECT_DIR$/ape-user/ape-user.iml" filepath="$PROJECT_DIR$/ape-user/ape-user.iml" />
